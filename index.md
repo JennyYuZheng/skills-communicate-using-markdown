@@ -1,6 +1,7 @@
 # H1
 ## H2
-### H3:smiley:
+### H3
+:smiley:
 At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.:blush:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
